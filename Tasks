@@ -1,0 +1,21 @@
+Task 1
+#include<iostream.h>
+using namespace std;
+int main()
+{
+float a,b;
+cout<<"Enter 2 numbers \n";
+cin>>a>>b;
+cout<<"Multiplication"<<a*b;
+}
+
+Task 2
+#include<iostream.h>
+using namespace std;
+int main()
+{
+cout<<"Size of char: 1 byte";
+cout<<"\nSize of int: 4 bytes";
+cout<<"\nSize of float: 4 bytes";
+cout<<”\nSize of double: 8 bytes";
+}
