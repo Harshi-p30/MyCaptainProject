@@ -1,0 +1,13 @@
+
+#include<studio.h>
+ main() { 
+int n;
+printf("Enter number");
+scanf("%d",&n);
+switch(n)
+{ case 0: printf("right choice");
+break;
+case 1: printf("right choice");
+break;
+default: printf("choose default");
+}
